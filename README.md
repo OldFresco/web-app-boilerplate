@@ -1,2 +1,2 @@
-# partner-web-client
-Single Page Application providing partners with a service interaction interface. 
+# Web-App
+Single Page Application. 
